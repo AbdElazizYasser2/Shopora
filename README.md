@@ -1,4 +1,4 @@
-# E-Commerce API
+# E-Commerce Platform REST API
 
 A scalable and production-ready E-Commerce REST API built with **Node.js**, **Express.js**, **TypeScript**, and **MongoDB** following a modular architecture.
 
@@ -30,43 +30,6 @@ A scalable and production-ready E-Commerce REST API built with **Node.js**, **Ex
 - Request Logging
 - Global Error Handling
 
----
-
-# Tech Stack
-
-### Backend
-
-- Node.js
-- Express.js
-- TypeScript
-
-### Database
-
-- MongoDB
-- Mongoose
-
-### Authentication
-
-- JWT
-
-### Validation
-
-- Express Validator
-
-### Security
-
-- Helmet
-- CORS
-- HPP
-- Express Rate Limit
-
-### Utilities
-
-- Nodemailer
-- Compression
-- i18next
-- Morgan
-  
 ---
 
 # Installation
@@ -166,15 +129,12 @@ The API includes:
 
 # Future Improvements
 
-- Docker Support
 - Redis Caching
 - Cloudinary Image Upload
-- Swagger Documentation
 - Unit Testing
 - Integration Testing
 - CI/CD Pipeline
 - Background Jobs (BullMQ)
 - Elasticsearch
-- Payment Gateway Integration
 
 ---
